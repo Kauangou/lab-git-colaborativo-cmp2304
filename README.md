@@ -1,5 +1,5 @@
 # Atividade de Laboratório: Introdução à Colaboração com Git e GitHub
-**Disciplina: CMP2304**
+**Disciplina: Tecnologia e Construção de Software I (CMP2304)**
 ### Objetivos:
 - Aprender o fluxo de trabalho básico de um sistema de controle de versão distribuído.
 - Praticar a criação e gerenciamento de repositórios no GitHub.
